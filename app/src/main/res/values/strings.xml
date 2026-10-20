@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MecaDocs</string>
+    <string name="ai_online_status">● AI ONLINE</string>
+    <string name="brand_subtitle">By: Softworld</string>
+    <string name="datasheet_search_header">DATASHEET SEARCH</string>
+    <string name="search_placeholder">Pesquisar componente (ex: ESP32, Módulo Relé)...</string>
+    <string name="consult_datasheet">Consultar Datasheet</string>
+    <string name="bench_favorites_format">FAVORITOS DE BANCADA (%d)</string>
+    <string name="popular_components">COMPONENTES POPULARES</string>
+    <string name="station_ready">ESTAÇÃO PRONTA</string>
+    <string name="station_ready_desc">Digite o nome de qualquer componente ou selecione uma sugestão para consultar o pool de IAs e gerar o datasheet instantaneamente.</string>
+    <string name="loading_message">CARREGANDO...</string>
+    <string name="component_not_found">COMPONENT NOT FOUND</string>
+    <string name="component_not_found_desc">Não foi possível encontrar ou gerar um datasheet confiável para esta pesquisa.</string>
+    <string name="try_again">Tentar Novamente</string>
+    <string name="technical_datasheet">TECHNICAL DATASHEET</string>
+    <string name="remove_favorites">Remover dos Favoritos</string>
+    <string name="add_favorite">Favoritar</string>
+    <string name="share_datasheet">Compartilhar Datasheet</string>
+    <string name="voltage_divider_calculator">Calculadora Divisor de Tensão</string>
+</resources>
